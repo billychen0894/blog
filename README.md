@@ -5,7 +5,7 @@ The blog posts here are all about my learning journey of Web Development, from f
 ## Blog Posts
 
 ### CSS
-`09-15-2022` [How to alter default style of <input type="radio"> into a collection of button-like radio?](https://github.com/billychen0894/blog/issues/2)
+`09-15-2022` [How to alter default style of radio buttons into a collection of button-like radio?](https://github.com/billychen0894/blog/issues/2)
 
 ### Personal
 `09-13-2022` [Reflection](https://github.com/billychen0894/Blog/issues/1)
