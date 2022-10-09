@@ -10,3 +10,4 @@ The blog posts here are all about my learning journey of Web Development, from f
 ### JavaScript
 `09-21-2022` [What is duck typing in JavaScript?](https://github.com/billychen0894/blog/issues/3)
 #### Browser: Document, Events, Interfaces
+`10-09-2022` [What is BOM & DOM?](https://github.com/billychen0894/blog/issues/4)
