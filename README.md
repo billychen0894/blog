@@ -11,6 +11,8 @@ The blog posts here are all about my learning journey of Web Development, from f
 `09-21-2022` [What is duck typing in JavaScript?](https://github.com/billychen0894/blog/issues/3)
 
 #### Browser: Document, Events, Interfaces
+`10-09-2022` [DOM Insertion Methods, insertAdjacentHTML/Text/Element, and Node Removal](https://github.com/billychen0894/blog/issues/5)
+
 `10-09-2022` [What is BOM & DOM?](https://github.com/billychen0894/blog/issues/4)
 
-`10-09-2022` [DOM Insertion Methods, insertAdjacentHTML/Text/Element, and Node Removal](https://github.com/billychen0894/blog/issues/5)
+
