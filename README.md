@@ -11,6 +11,7 @@ The blog posts here are all about my learning journey of Web Development, from f
 `09-21-2022` [What is duck typing in JavaScript?](https://github.com/billychen0894/blog/issues/3)
 
 #### Browser: Document, Events, Interfaces
+`10-09-2022` [Appending list of nodes created by using Document Fragment](https://github.com/billychen0894/blog/issues/7)
 `10-09-2022` [How to clone nodes with cloneNode?](https://github.com/billychen0894/blog/issues/6)
 
 `10-09-2022` [DOM insertion methods, insertAdjacentHTML/Text/Element, and node removal](https://github.com/billychen0894/blog/issues/5)
