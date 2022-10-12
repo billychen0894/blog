@@ -12,7 +12,7 @@ The blog posts here are all about my learning journey of Web Development, from f
 
 ### Browser
 
-#### :small_orange_diamond:Document
+#### :small_orange_diamond: Document
 `10-09-2022` [Appending list of nodes created by using Document Fragment](https://github.com/billychen0894/blog/issues/7)
 
 `10-09-2022` [How to clone nodes with cloneNode?](https://github.com/billychen0894/blog/issues/6)
@@ -21,6 +21,9 @@ The blog posts here are all about my learning journey of Web Development, from f
 
 `10-09-2022` [What is BOM & DOM?](https://github.com/billychen0894/blog/issues/4)
 
-#### :small_orange_diamond:Miscellaneous
+#### :small_orange_diamond: Events
+`10-11-2022` [What are the 3 phases of event propagation?](https://github.com/billychen0894/blog/issues/10)
+
+#### :small_orange_diamond: Miscellaneous
 
 `10-11-2022` [What is Event Loop?](https://github.com/billychen0894/blog/issues/8)
