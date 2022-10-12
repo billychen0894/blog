@@ -34,7 +34,7 @@ The blog posts here are all about my learning journey of Web Development, from f
 
 [What is Event Delegation?](https://github.com/billychen0894/blog/issues/12)
 
-[What is event.preventDefault()?](https://github.com/billychen0894/blog/issues/13)
+[What is browser default actions? How to prevent them? ](https://github.com/billychen0894/blog/issues/13)
 
 #### :small_orange_diamond: Miscellaneous
 
