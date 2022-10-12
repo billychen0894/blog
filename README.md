@@ -5,27 +5,37 @@ The blog posts here are all about my learning journey of Web Development, from f
 ## Blog Posts
 
 ## CSS
-`09-15-2022` [How to alter default style of radio buttons into a collection of button-like radio?](https://github.com/billychen0894/blog/issues/2)
+
+[How to alter default style of radio buttons into a collection of button-like radio?](https://github.com/billychen0894/blog/issues/2)
 
 ## JavaScript
-`09-21-2022` [What is duck typing in JavaScript?](https://github.com/billychen0894/blog/issues/3)
+
+[What is duck typing in JavaScript?](https://github.com/billychen0894/blog/issues/3)
 
 ### Browser
 
 #### :small_orange_diamond: Document
-`10-09-2022` [Appending list of nodes created by using Document Fragment](https://github.com/billychen0894/blog/issues/7)
 
-`10-09-2022` [How to clone nodes with cloneNode?](https://github.com/billychen0894/blog/issues/6)
+[Difference between element.classList.contains() & element.matches()](https://github.com/billychen0894/blog/issues/14)
 
-`10-09-2022` [DOM insertion methods, insertAdjacentHTML/Text/Element, and node removal](https://github.com/billychen0894/blog/issues/5)
+[Appending list of nodes created by using Document Fragment](https://github.com/billychen0894/blog/issues/7)
 
-`10-09-2022` [What is BOM & DOM?](https://github.com/billychen0894/blog/issues/4)
+[How to clone nodes with cloneNode?](https://github.com/billychen0894/blog/issues/6)
+
+[DOM insertion methods, insertAdjacentHTML/Text/Element, and node removal](https://github.com/billychen0894/blog/issues/5)
+
+[What is BOM & DOM?](https://github.com/billychen0894/blog/issues/4)
 
 #### :small_orange_diamond: Events
-`10-11-2022` [What are the 3 phases of event propagation?](https://github.com/billychen0894/blog/issues/10)
 
-`10-11-2022` [Difference between event.stopPropagation() & event.stopImmediatePropagation()](https://github.com/billychen0894/blog/issues/11)
+[What are the 3 phases of event propagation?](https://github.com/billychen0894/blog/issues/10)
+
+[Difference between event.stopPropagation() & event.stopImmediatePropagation()](https://github.com/billychen0894/blog/issues/11)
+
+[What is Event Delegation?](https://github.com/billychen0894/blog/issues/12)
+
+[What is event.preventDefault()?](https://github.com/billychen0894/blog/issues/13)
 
 #### :small_orange_diamond: Miscellaneous
 
-`10-11-2022` [What is Event Loop?](https://github.com/billychen0894/blog/issues/8)
+[What is Event Loop?](https://github.com/billychen0894/blog/issues/8)
