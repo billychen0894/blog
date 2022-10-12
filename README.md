@@ -24,6 +24,8 @@ The blog posts here are all about my learning journey of Web Development, from f
 #### :small_orange_diamond: Events
 `10-11-2022` [What are the 3 phases of event propagation?](https://github.com/billychen0894/blog/issues/10)
 
+`10-11-2022` [Difference between event.stopPropagation() & event.stopImmediatePropagation()](https://github.com/billychen0894/blog/issues/11)
+
 #### :small_orange_diamond: Miscellaneous
 
 `10-11-2022` [What is Event Loop?](https://github.com/billychen0894/blog/issues/8)
