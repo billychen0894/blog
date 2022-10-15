@@ -36,14 +36,6 @@ The blog posts here are all about my learning journey of Web Development, from f
 
 [What is browser default actions? How to prevent them?](https://github.com/billychen0894/blog/issues/13)
 
-#### :small_orange_diamond: Request, AJAX
-
-[Difference between Node.js & Browser for HTTP Requests?](https://github.com/billychen0894/blog/issues/17)
-
-[Same-origin Policy & CORS](https://github.com/billychen0894/blog/issues/18)
-
-[Different ways for AJAX Calls](https://github.com/billychen0894/blog/issues/19)
-
 #### :small_orange_diamond: Storage
 
 [What are Cookies & document.cookie?](https://github.com/billychen0894/blog/issues/15)
@@ -53,3 +45,17 @@ The blog posts here are all about my learning journey of Web Development, from f
 #### :small_orange_diamond: Miscellaneous
 
 [What is Event Loop?](https://github.com/billychen0894/blog/issues/8)
+
+### Request, AJAX
+
+[Difference between Node.js & Browser for HTTP Requests?](https://github.com/billychen0894/blog/issues/17)
+
+[Same-origin Policy & CORS](https://github.com/billychen0894/blog/issues/18)
+
+[Different ways for AJAX Calls](https://github.com/billychen0894/blog/issues/19)
+
+### ES6
+
+[Different ways of Array Destructuring](https://github.com/billychen0894/blog/issues/20)
+
+[Different ways of Object Destructuring](https://github.com/billychen0894/blog/issues/21)
