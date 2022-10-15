@@ -36,6 +36,14 @@ The blog posts here are all about my learning journey of Web Development, from f
 
 [What is browser default actions? How to prevent them?](https://github.com/billychen0894/blog/issues/13)
 
+#### :small_orange_diamond: Request, AJAX
+
+[Difference between Node.js & Browser for HTTP Requests?](https://github.com/billychen0894/blog/issues/17)
+
+[Same-origin Policy & CORS](https://github.com/billychen0894/blog/issues/18)
+
+[Different ways for AJAX Calls](https://github.com/billychen0894/blog/issues/19)
+
 #### :small_orange_diamond: Storage
 
 [What are Cookies & document.cookie?](https://github.com/billychen0894/blog/issues/15)
