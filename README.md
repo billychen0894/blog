@@ -59,3 +59,11 @@ The blog posts here are all about my learning journey of Web Development, from f
 [Different ways of Array Destructuring](https://github.com/billychen0894/blog/issues/20)
 
 [Different ways of Object Destructuring](https://github.com/billychen0894/blog/issues/21)
+
+### JS OOP
+
+[How JavaScript Inheritance was designed in the past?](https://github.com/billychen0894/blog/issues/22)
+
+[JavaScript Prototypal Inheritance](https://github.com/billychen0894/blog/issues/23)
+
+[Native JavaScript prototypes](https://github.com/billychen0894/blog/issues/24)
