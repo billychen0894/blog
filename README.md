@@ -62,6 +62,8 @@ The blog posts here are all about my learning journey of Web Development, from f
 
 ### JS OOP
 
+[JavaScript Class](https://github.com/billychen0894/blog/issues/25)
+
 [How JavaScript Inheritance was designed in the past?](https://github.com/billychen0894/blog/issues/22)
 
 [JavaScript Prototypal Inheritance](https://github.com/billychen0894/blog/issues/23)
