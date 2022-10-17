@@ -10,6 +10,14 @@ The blog posts here are all about my learning journey of Web Development, from f
 
 ## JavaScript
 
+### JS Concepts You Should Know
+
+[Execution Context](https://github.com/billychen0894/blog/issues/26)
+
+[Hoisting](https://github.com/billychen0894/blog/issues/27)
+
+[Scope & Scope Chain](https://github.com/billychen0894/blog/issues/28)
+
 [What is duck typing in JavaScript?](https://github.com/billychen0894/blog/issues/3)
 
 ### Browser
