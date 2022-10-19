@@ -16,6 +16,7 @@ The blog posts here are all about my learning journey of Web Development, from f
 - [Scope & Scope Chain](https://github.com/billychen0894/blog/issues/28)
 - [Immediately Invoked Function Expression(IIFE)](https://github.com/billychen0894/blog/issues/29)
 - [Closure](https://github.com/billychen0894/blog/issues/30)
+- [call(), apply(), and bind()](https://github.com/billychen0894/blog/issues/31)
 - [What is Event Loop?](https://github.com/billychen0894/blog/issues/8)
 - [What is duck typing in JavaScript?](https://github.com/billychen0894/blog/issues/3)
 
