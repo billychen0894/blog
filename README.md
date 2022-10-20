@@ -59,3 +59,4 @@ The blog posts here are all about my learning journey of Web Development, from f
 - [How JavaScript Inheritance was designed in the past?](https://github.com/billychen0894/blog/issues/22)
 - [JavaScript Prototypal Inheritance](https://github.com/billychen0894/blog/issues/23)
 - [Native JavaScript prototypes](https://github.com/billychen0894/blog/issues/24)
+- [JavaScript Pure Prototypal Inheritance](https://github.com/billychen0894/blog/issues/32)
