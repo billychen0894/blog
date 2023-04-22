@@ -5,6 +5,7 @@ Personal learning notes! Hope you enjoy!
 ## Languages
 
 - [JavaScript](https://github.com/billychen0894/blog/blob/main/Javascript.md)
+- [TypeScript](https://github.com/billychen0894/blog/blob/main/Typescript.md)
 
 
 ## Frontend
